@@ -1,0 +1,7 @@
+C:\DataScienceChallenge\KnightConsoleApp\KnightConsoleApp\obj\Debug\KnightConsoleApp.csprojResolveAssemblyReference.cache
+C:\DataScienceChallenge\KnightConsoleApp\KnightConsoleApp\obj\Debug\KnightConsoleApp.csproj.CoreCompileInputs.cache
+C:\DataScienceChallenge\KnightConsoleApp\KnightConsoleApp\bin\Debug\KnightConsoleApp.exe.config
+C:\DataScienceChallenge\KnightConsoleApp\KnightConsoleApp\bin\Debug\KnightConsoleApp.exe
+C:\DataScienceChallenge\KnightConsoleApp\KnightConsoleApp\bin\Debug\KnightConsoleApp.pdb
+C:\DataScienceChallenge\KnightConsoleApp\KnightConsoleApp\obj\Debug\KnightConsoleApp.exe
+C:\DataScienceChallenge\KnightConsoleApp\KnightConsoleApp\obj\Debug\KnightConsoleApp.pdb
